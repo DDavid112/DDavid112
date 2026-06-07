@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm David 👋</h1>
 
 ---
@@ -36,4 +36,3 @@ My main interests are backend development, database management, and problem-solv
 ### Thanks for visiting my profile! 🚀
 
 </div>
-```
