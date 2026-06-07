@@ -1,12 +1,11 @@
-##<h1 align="center">Hi, Im David👋</h1>
+<h1 align="center">Hi, Im David👋</h1>
 
 ---
 
 A Miskolci Egyetem mérnökinformatikus szakának 4. féléves hallgatója vagyok.
 
-A programozásban elsősorban a backend fejlesztés, az adatbázisok és a problémamegoldás érdekel. Folyamatosan fejlesztem a tudásomat egyetemi projektek, önálló tanulás és gyakorlati feladatok segítségével.
+A programozásban elsősorban a backend fejlesztés, az adatbáziskezelés és a problémamegoldás érdekel. 
 
-Célom, hogy olyan szoftvereket készítsek, amelyek nemcsak működnek, hanem jól tervezettek, hatékonyak és könnyen karbantarthatók is.
 
 ---
 
@@ -24,48 +23,7 @@ Célom, hogy olyan szoftvereket készítsek, amelyek nemcsak működnek, hanem j
 
 ---
 
-## 📚 Jelenleg
 
-- 🎓 Mérnökinformatikát tanulok a Miskolci Egyetemen
-- 🗄️ Adatbázis-kezelési és SQL ismereteimet fejlesztem
-- 💻 C# projektek készítésével szerzek gyakorlati tapasztalatot
-- 🌱 Folyamatosan tanulok új technológiákat és fejlesztési módszereket
-
----
-
-## 📊 GitHub statisztikák
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-
-</div>
-
----
-
-## 🎯 Céljaim
-
-✔️ Tapasztalatszerzés valós projektekben
-
-✔️ Backend fejlesztői készségek fejlesztése
-
-✔️ Adatbázis-tervezési és optimalizálási ismeretek mélyítése
-
-✔️ Modern fejlesztői eszközök és technológiák elsajátítása
-
----
 
 ## 📫 Elérhetőség
 
