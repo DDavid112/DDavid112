@@ -1,15 +1,15 @@
-<h1 align="center">Hi, Im David👋</h1>
+```md
+<h1 align="center">Hi, I'm David 👋</h1>
 
 ---
 
-A Miskolci Egyetem mérnökinformatikus szakának 4. féléves hallgatója vagyok.
+I'm a 4th-semester Computer Engineering student at the University of Miskolc.
 
-A programozásban elsősorban a backend fejlesztés, az adatbáziskezelés és a problémamegoldás érdekel. 
-
+My main interests are backend development, database management, and problem-solving. I am continuously improving my skills through university projects and personal learning.
 
 ---
 
-## 🛠️ Technológiai stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -23,9 +23,7 @@ A programozásban elsősorban a backend fejlesztés, az adatbáziskezelés és a
 
 ---
 
-
-
-## 📫 Elérhetőség
+## 📫 Contact
 
 📧 E-mail: your.email@example.com
 
@@ -35,7 +33,7 @@ A programozásban elsősorban a backend fejlesztés, az adatbáziskezelés és a
 
 <div align="center">
 
-### Köszönöm, hogy meglátogattad a profilomat! 🚀
+### Thanks for visiting my profile! 🚀
 
 </div>
 ```
