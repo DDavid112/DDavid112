@@ -1,16 +1,8 @@
-```md
-<h1 align="center">Szia! 👋</h1>
-
-<h3 align="center">
-🎓 Mérnökinformatikus hallgató | Miskolci Egyetem <br>
-💻 Backend & Database Enthusiast
-</h3>
+##<h1 align="center">Hi, Im David👋</h1>
 
 ---
 
-## 🚀 Rólam
-
-Jelenleg a **Miskolci Egyetem** mérnökinformatikus szakának **4. féléves hallgatója** vagyok.
+A Miskolci Egyetem mérnökinformatikus szakának 4. féléves hallgatója vagyok.
 
 A programozásban elsősorban a backend fejlesztés, az adatbázisok és a problémamegoldás érdekel. Folyamatosan fejlesztem a tudásomat egyetemi projektek, önálló tanulás és gyakorlati feladatok segítségével.
 
