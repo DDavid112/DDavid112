@@ -27,12 +27,6 @@ My main interests are backend development, database management, and problem-solv
 
 📧 E-mail: your.email@example.com
 
-💼 GitHub: https://github.com/YOUR_USERNAME
-
 ---
-
-<div align="center">
-
-### Thanks for visiting my profile! 🚀
 
 </div>
